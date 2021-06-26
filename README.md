@@ -1,9 +1,12 @@
 <h1 align="center">Flutter-ClimateApp</h1>
 <a href="#">
-  <div align="center">
-    <img src="ss.png" width='700'/>
+  <div align="center" >
+    <img src="ss.png" width='400' height = '500'/>
   </div>
 </a>
+
+## Video of this app
+[Link](https://hirashahid.thecloudsoft.com/flutter-climateapp/)
 
 ## Functionalities
 - [x] Http Resquest and Response
