@@ -25,7 +25,7 @@ flutter run
 ## Author
 You can get in touch with me on my LinkedIn Profile:
 
-#### Saad Hassan
+#### Hira Shahid
 [![LinkedIn Link](https://img.shields.io/badge/Connect-thehirashahid-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/thehirashahid)
 
