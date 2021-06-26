@@ -5,8 +5,7 @@
   </div>
 </a>
 
-## Video of this app
-[Link](https://hirashahid.thecloudsoft.com/flutter-climateapp/)
+## <h2 align = "center"> [Tap to see the video of this app](https://hirashahid.thecloudsoft.com/flutter-climateapp/)</h2>
 
 ## Functionalities
 - [x] Http Resquest and Response
